@@ -11,3 +11,6 @@ ActualPrice = Calcualteafterdiscountamount(ActualPrice ,discountPercentage)
 
 print (ActualPrice)
 Print ("Geethika Changes")
+Print ("Geethika Changes222")
+
+Print ("Geethika Changes3333")
