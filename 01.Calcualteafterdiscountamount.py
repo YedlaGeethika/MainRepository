@@ -10,7 +10,7 @@ discountPercentage = int(input('Please enter discount Percentage: '))
 ActualPrice = Calcualteafterdiscountamount(ActualPrice ,discountPercentage)
 
 print (ActualPrice)
-Print ("Geethika Changes")
-Print ("Geethika Changes222")
+print ("Geethika Changes")
+print ("Geethika Changes222")
 
-Print ("Geethika Changes3333")
+print ("Geethika Changes3333")
